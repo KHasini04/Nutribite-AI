@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.venv/
+
+# Build directories
+dist/
+build/
+
+# IDEs and OS files
+.DS_Store
+.vscode/
+.idea/
+
+# Database
+*.db
+*.sqlite3
+
+# Vercel
+.vercel/
