@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://nutribite-ai.onrender.comsss',
+  baseURL: 'https://nutribite-ai.onrender.com',
 });
 
 // Add a request interceptor to attach the JWT token automatically
