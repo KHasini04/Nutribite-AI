@@ -6,7 +6,8 @@ asyncpg
 pydantic
 pydantic-settings
 python-dotenv
-passlib[bcrypt]
+passlib
+bcrypt==3.2.2
 python-multipart
 pyjwt
 alembic
